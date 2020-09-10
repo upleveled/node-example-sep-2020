@@ -10,3 +10,7 @@ $ node index.js cat
 $ node index.js non-existent
 Emoji not found
 ```
+
+## Miscellaneous Examples
+
+You can also find some miscellaneous examples under [/examples/](./examples)
