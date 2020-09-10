@@ -4,7 +4,8 @@ Various examples of Node.js and JavaScript:
 
 - [x] common errors
 - [x] function scope
-- [ ] shadowing
-- [ ] let vs var vs const
-- [ ] promises + async/await
-- [ ] importing
+- [x] shadowing
+- [x] let vs var vs const
+- [x] promises + async/await
+- [x] requires
+- [x] import
